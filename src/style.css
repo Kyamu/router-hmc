@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color:black;
+    margin-bottom: 10px;
+    
+}
+.Link{
+    color: white;
+    margin-right: 30px;
+}
+.active{
+    color: red;
+}
